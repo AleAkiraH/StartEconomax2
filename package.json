@@ -1,0 +1,15 @@
+{
+  "name": "StartEconomax",
+  "version": "1.0.0",
+  "description": "Descrição do projeto",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.24.0"
+  }
+}
